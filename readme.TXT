@@ -1,0 +1,1 @@
+The animation you can turn off by comment JS code using /* JS code */
