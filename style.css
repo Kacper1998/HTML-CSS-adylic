@@ -210,7 +210,6 @@ body {
   }
   .left-wrapper figure {
     margin-left:-50px;
-    border: 2px solid red;
     position: relative;
   }
   #left-logo {
@@ -232,7 +231,6 @@ body {
     margin-top:200px;
     width: 30%;
     font-size: 12px;
-    border: 2px solid red;
     position:relative;
   }
   .right-logo-text {
